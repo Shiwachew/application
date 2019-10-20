@@ -1,9 +1,9 @@
 ## Checkout the source code
 
 ## Install all packages 
-### npm install
+### npm install / yarn install
 
 ## Start the dev script 
-### npm start
+### npm start / yarn dev
 
 ## Go to localhost:3000
